@@ -32,13 +32,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    display: inline; center;
+    display: inline;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #fff;
 }
 p {
-  display: inline; center;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #fff;
