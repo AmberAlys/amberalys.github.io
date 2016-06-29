@@ -6,13 +6,10 @@ html {
   background-size: cover;
 }
 
-html,
-body,
-.container {
+body {
+  .container {
   height: 100%;
   margin: 0;
-
-body {
     margin: 60px auto;
     width: 70%;
 }
