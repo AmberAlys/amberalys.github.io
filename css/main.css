@@ -10,6 +10,16 @@ div {
     position: relative;
 }
 
+h1 {
+    display: inline;
+    
+img {
+    position:absolute;
+    width:cover
+    width:cover;
+    max-width: cover;
+}
+
 body {
 
 }
@@ -32,7 +42,6 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    display: inline;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #fff;
